@@ -12,4 +12,5 @@ python app.py
 
 * Extrait de l'interface web :
 
-![Capture d’écran du 2024-11-20 15-14-24](https://github.com/user-attachments/assets/f0874f69-123d-4b8c-8011-3820a0451964)
+![Capture d’écran du 2024-11-20 15-53-53](https://github.com/user-attachments/assets/21ded13a-62cc-4474-9654-9f4b895cffb3)
+
