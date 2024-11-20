@@ -1,0 +1,71 @@
+/* Styles généraux */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+    gap: 5px;
+    width: 90%;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+.container img {
+    width: 500px;
+    object-fit: cover;
+}
+
+/* Formulaire */
+form#predictionForm {
+    margin: 20px auto;
+    padding: 15px;
+    width: 300px;
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+form#predictionForm label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+form#predictionForm input {
+    width: 90%;
+    margin: auto;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+form#predictionForm button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+form#predictionForm button:hover {
+    background-color: #0056b3;
+}
+
+/* Résultats */
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+    display: block;
+}
+
+
